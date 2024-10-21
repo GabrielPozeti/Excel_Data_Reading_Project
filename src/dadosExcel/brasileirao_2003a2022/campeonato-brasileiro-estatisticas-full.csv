@@ -1,4 +1,4 @@
-"partida_id","rodata","clube","chutes","chutes_no_alvo","posse_de_bola","passes","precisao_passes","faltas","cartao_amarelo","cartao_vermelho","impedimentos","escanteios"
+"partida_id","rodata","clube","chutes","chutes_no_alvo","posse_de_bola","passes","precisaoDosPasses","faltasCometidas","cartaoAmarelo","cartaoVermelho","impedimentos","escanteios"
 "1","1","Guarani","0","0","","0","","0","0","0","0","0"
 "1","1","Vasco","0","0","","0","","0","0","0","0","0"
 "2","1","Athletico-PR","0","0","","0","","0","0","0","0","0"

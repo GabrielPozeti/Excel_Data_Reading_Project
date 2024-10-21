@@ -1,4 +1,4 @@
-"partida_id","rodata","clube","cartao","atleta","num_camisa","posicao","minuto"
+"partida_id","rodata","clube","cartao","atleta","numeroDaCamisa","posicao","minuto"
 "4607","1","Figueirense","Amarelo","Paulo Roberto da Silva","28","","66"
 "4608","1","Internacional","Amarelo","Andrés D'Alessandro","10","Meio-campo","72"
 "4608","1","Vitoria","Amarelo","Marcelo Machado dos Santos","29","","86"
